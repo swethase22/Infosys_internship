@@ -1,6 +1,6 @@
 # Infosys_internship
 
-# Brain Tumor and MNIST Classification Models
+# Classification Models
 
 This repository contains three deep learning models for image classification tasks. Each model was trained and evaluated using different datasets. The models include:
 
@@ -42,15 +42,4 @@ LeNet is a classical Convolutional Neural Network architecture designed for digi
 - Build and train the LeNet model.
 - Evaluate the model on the test dataset.
 
-## Requirements
 
-- Python 3.x
-- TensorFlow or Keras
-- NumPy
-- Matplotlib
-- scikit-learn
-
-You can install the required libraries using the following:
-
-```bash
-pip install -r requirements.txt
